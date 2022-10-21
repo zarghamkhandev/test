@@ -1,1 +1,1 @@
-const test = "testing new repository"
+const actual = "testing new repository"
